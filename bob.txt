@@ -1,2 +1,2 @@
-I'm bob. I'm new here.
+I'm bob <diff>. I'm new here.
 Change something here.
